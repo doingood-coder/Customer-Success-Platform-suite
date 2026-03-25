@@ -188,10 +188,12 @@ All CSS, JavaScript, and HTML are embedded in a single file. CSS is **scoped by 
 - 🔍 **Research** — Compare feature sets of Gainsight, Totango, and ChurnZero
 
 ---
-
 ## ⚠️ Disclaimer
 
-> This project is created for portfolio and demonstration purposes only. It is **not affiliated with, endorsed by, or connected to** Gainsight, Totango, or ChurnZero in any way. All data shown is fictional and for illustrative purposes only.This project is open for personal and educational use. Please do not redistribute commercially without attribution.
+This project is created for educational and portfolio purposes only. It is not affiliated with, endorsed by, or connected to Gainsight, Totango, or ChurnZero in any way.
+
+All data, metrics, and customer information presented are fictional and used solely for demonstration purposes.
+
 
 
 ---
