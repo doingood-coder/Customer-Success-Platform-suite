@@ -18,7 +18,7 @@
 <br/>
 
 [![View Live Demo](https://img.shields.io/badge/▶%20View%20Live%20Demo-0a1628?style=for-the-badge&logoColor=white)](https://reaishma.github.io/Customer-Success-Platform-suite/)
-[![Download HTML](https://img.shields.io/badge/⬇%20Download%20HTML-1a6bff?style=for-the-badge&logoColor=white)](./DOC-20260325-WA0008._1774425148861.html)
+[![Download HTML](https://img.shields.io/badge/⬇%20Download%20HTML-1a6bff?style=for-the-badge&logoColor=white)](https://github.com/Reaishma/Customer-Success-Platform-suite/blob/main/index.html)
 
 </div>
 
