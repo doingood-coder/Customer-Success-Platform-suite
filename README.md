@@ -30,7 +30,6 @@
 |---|---|---|---|
 | **Theme** | Navy · Blue · Teal | Deep Purple · Violet | Dark Teal · Pink |
 | **Focus** | Advanced analytics & automation | Flexible segmentation & campaigns | Real-time churn prevention |
-| **Customers** | 500+ accounts tracked | 640 accounts | 720 accounts |
 | **Retention Rate** | 92% | 91% | 91% |
 | **Churn Rate** | — | 7% | 9% |
 | **Unique Feature** | AI Playbooks & Health Weights | Modular Touchpoints | Real-time Alert Engine |
